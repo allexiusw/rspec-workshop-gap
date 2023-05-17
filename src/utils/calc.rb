@@ -23,7 +23,7 @@ class Calc
     number1 + number2
   end
 
-  def subtract
+  def substract
     number1 - number2
   end
 
